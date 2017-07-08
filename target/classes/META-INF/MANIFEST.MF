@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: spring-boot-web-jsp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.thinkingingis
+Build-Jdk: 1.7.0_79
+Built-By: gisboy
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ web-jsp/
+
